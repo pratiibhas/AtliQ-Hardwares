@@ -7,6 +7,6 @@ However, the management noticed that they do not get enough insights to make qui
 
 The Questions needed to be answerd are given as pdf above.
 
-### Various SQL function used :
-1.
+### Various SQL function used for the purpose:
+
  Resume challenge posted by Codebasics.io: https://codebasics.io/challenge/codebasics-resume-project-challenge
