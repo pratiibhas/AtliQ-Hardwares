@@ -118,6 +118,18 @@ CONCAT: To format the percentage output.
 
 Query: Finding the top 3 products by sold quantity for each division in 2021.
 
+
+
+## Conclusion
+
+Advanced SQL Concepts: Proficient use of CTEs, window functions (e.g., RANK()), and aggregation.
+
+Data Analysis: Ability to analyze trends, identify patterns, and draw insights from data.
+
+Performance Optimization: Efficient use of functions and query structures to minimize computation time.
+
+Versatility: Handling a variety of tasks, such as filtering, grouping, ranking, and aggregating data.
+
 Key Functions:
 
 RANK() OVER: To rank products within each division.
